@@ -1,0 +1,17 @@
+* {
+  font-family: "trebuchet MS" "lucida sans unicode", "lucida grande",
+    "lucida sans", Arial, sans-serif;
+}
+
+li {
+  background-color: cornflowerblue;
+  color: white;
+}
+
+.section-heading {
+  color: blueviolet;
+}
+
+#welcome {
+  color: magenta;
+}
